@@ -62,6 +62,13 @@
 
 - - -
 
+### Workflow
+
+- [Yeoman](https://github.com/yeoman)
+- [Bower](https://github.com/bower/bower Bower)
+- [Grunt](https://github.com/gruntjs/grunt)
+- [f2e-workflow](https://github.com/hzlzh/f2e-workflow)
+
 ### Canvas
 
 - [Chart.js](https://github.com/nnnick/Chart.js)
