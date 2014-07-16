@@ -33,7 +33,7 @@
 - [scrollpath](https://github.com/JoelBesada/scrollpath)
 - [PageSlide](http://srobbin.com/jquery-plugins/pageslide/)
 - [progress.js](https://github.com/usablica/progress.js)
-- [TimelineJS](https://github.com/NUKnightLab/TimelineJSTimelineJS)
+- [TimelineJS](https://github.com/NUKnightLab/TimelineJS)
 - [grid](https://github.com/aekaplan/grid)
 - [jQuery-Stickem](https://github.com/davist11/jQuery-Stickem)
 
