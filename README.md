@@ -12,6 +12,9 @@
 - [Effeckt.css](https://github.com/h5bp/Effeckt.css)
 - [Hover](https://github.com/IanLunn/Hover)
 - [Agile](https://github.com/a-jie/Agile)
+- [InlineAnchorStyles](https://github.com/codrops/InlineAnchorStyles)
+- [PageLoadingEffects](https://github.com/codrops/PageLoadingEffects)
+- [typetype](https://github.com/iamdanfox/typetype)
 
 - - -
 
@@ -36,6 +39,8 @@
 - [TimelineJS](https://github.com/NUKnightLab/TimelineJSTimelineJS)
 - [grid](https://github.com/aekaplan/grid)
 - [jQuery-Stickem](https://github.com/davist11/jQuery-Stickem)
+- [Blur.js](https://github.com/jakiestfu/Blur.js)
+
 
 #### Dialog
 
@@ -59,6 +64,7 @@
 
 - [jquery_lazyload](http://www.appelsiini.net/projects/lazyload)
 - [AlloyImage](https://github.com/AlloyTeam/AlloyImage)
+- [intense-images](https://github.com/tholman/intense-images)
 
 - - -
 
@@ -69,6 +75,8 @@
 - [Grunt](https://github.com/gruntjs/grunt)
 - [f2e-workflow](https://github.com/hzlzh/f2e-workflow)
 - [StaticPage](https://github.com/foru17/StaticPage)
+
+- - -
 
 ### Canvas
 
@@ -105,6 +113,7 @@
 - [Fonts.css](https://github.com/zenozeng/fonts.css)
 - [Entry.css](https://github.com/zmmbreeze/Entry.css)
 - [Han](https://github.com/ethantw/Han)
+- [source-han-sans](https://github.com/adobe-fonts/source-han-sans)
 
 - - -
 
@@ -158,6 +167,7 @@
 - [Modernizr](https://github.com/Modernizr/Modernizr)
 - [year](https://github.com/asgrim/year)
 - [jQuery.mmenu](https://github.com/BeSite/jQuery.mmenu)
+- [anno.js](https://github.com/iamdanfox/anno.js)
 
 - - -
 
