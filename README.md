@@ -53,6 +53,9 @@
 - [power-slider](https://github.com/kujian/power-slider)
 - [cxSlide](https://github.com/ciaoca/cxSlide)
 - [cxScroll](https://github.com/ciaoca/cxScroll)
+- [bxslider](http://bxslider.com/)
+- [jq.carousel](http://5509.github.io/jq.carousel/)
+- [jQuery Star Rating Plugin](https://www.fyneworks.com/jquery/star-rating/)
 
 #### Color
 
