@@ -40,6 +40,9 @@
 - [grid](https://github.com/aekaplan/grid)
 - [jQuery-Stickem](https://github.com/davist11/jQuery-Stickem)
 - [Blur.js](https://github.com/jakiestfu/Blur.js)
+- [icheck](https://github.com/fronteed/icheck)
+- [jquery.customSelect](https://github.com/adamcoulombe/jquery.customSelect)
+- [chosen](https://github.com/harvesthq/chosen)
 
 
 #### Dialog
@@ -49,13 +52,16 @@
 
 #### Carousels
 
+- [slick](http://kenwheeler.github.io/slick/)
+- [owlcarousel](http://owlgraphic.com/owlcarousel/)
+- [Swiper](https://github.com/nolimits4web/Swiper)
 - [jcarousel](https://github.com/jsor/jcarousel)
 - [power-slider](https://github.com/kujian/power-slider)
 - [cxSlide](https://github.com/ciaoca/cxSlide)
 - [cxScroll](https://github.com/ciaoca/cxScroll)
 - [bxslider](http://bxslider.com/)
 - [jq.carousel](http://5509.github.io/jq.carousel/)
-- [jQuery Star Rating Plugin](https://www.fyneworks.com/jquery/star-rating/)
+- [FlexSlider](https://github.com/woothemes/FlexSlider)
 
 #### Color
 
@@ -171,6 +177,7 @@
 - [year](https://github.com/asgrim/year)
 - [jQuery.mmenu](https://github.com/BeSite/jQuery.mmenu)
 - [anno.js](https://github.com/iamdanfox/anno.js)
+- [jQuery Star Rating Plugin](https://www.fyneworks.com/jquery/star-rating/)
 
 - - -
 
